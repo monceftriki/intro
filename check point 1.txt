@@ -1,0 +1,11 @@
+How does the web work? 
+the user write a domain name 
+dns change domain name to ip address
+using HTTP hyper text transfer protocol generate and send the Html file 
+rendering the web page 
+What do you need to be a web developer?
+Languages: HTML, CSS and JavaScript
+Git and GitHub
+Design Software 
+What is the role of a web developer ?
+A web developer's job is to create website While their primary role is to ensure the website is visually appealing and easy to navigate many web developers are also responsible for the website's performance and capacity
